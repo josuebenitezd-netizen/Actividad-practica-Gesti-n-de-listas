@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue\\source\\repos\\Actividad Pr\u00E1ctica ( Gesti\u00F3n de listas)\\Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB26DC-A1A5-7C0E-25B7-A31654E85C2A}|Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\Actividad Pr\u00E1ctica (Gesti\u00F3n de listas).csproj|c:\\users\\josue\\source\\repos\\actividad pr\u00E1ctica ( gesti\u00F3n de listas)\\actividad pr\u00E1ctica (gesti\u00F3n de listas)\\actividad pr\u00E1ctica (gesti\u00F3n de listas)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB26DC-A1A5-7C0E-25B7-A31654E85C2A}|Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\Actividad Pr\u00E1ctica (Gesti\u00F3n de listas).csproj|solutionrelative:actividad pr\u00E1ctica (gesti\u00F3n de listas)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\Actividad Pr\u00E1ctica ( Gesti\u00F3n de listas)\\Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\Program.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\Actividad Pr\u00E1ctica ( Gesti\u00F3n de listas)\\Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\Program.cs*",
+              "RelativeToolTip": "Actividad Pr\u00E1ctica (Gesti\u00F3n de listas)\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAm5mZmZkxwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T01:26:13.609Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
