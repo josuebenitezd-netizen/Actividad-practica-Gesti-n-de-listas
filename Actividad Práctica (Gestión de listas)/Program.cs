@@ -7,7 +7,7 @@ class Program
 {
     static List<string> nombresProductos = new() { "Papaya", "Melon", "Limon", "Pera", "Fresa" };
     static List<decimal> preciosProductos = new() { 450.49m, 500.75m, 700.50m, 900.00m, 2000.00m };
-
+    
     static void Main()
     {
 
